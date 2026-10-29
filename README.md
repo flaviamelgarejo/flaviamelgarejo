@@ -1,6 +1,6 @@
 # ¡Hola! Soy Flavia 👋
 
-Estudio **Programación en la UTN** y soy curiosa de oficio. 🔎
+Estudio **Programación en la UTN** 
 
 Me gusta entender cómo funcionan las cosas, hacer preguntas y descubrir cómo una idea puede convertirse en algo útil para alguien.
 
